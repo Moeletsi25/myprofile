@@ -11,9 +11,9 @@ institution = "University of Science"
 
 # Display basic profile information
 st.header("Researcher Overview")
-st.write(f"**Name:** {MOELETSI PHAAHLA}")
-st.write(f"**Field of Research:** {PHYSICS}")
-st.write(f"**Institution:** {UNIVERSITY OF LIMPOPO}")
+st.write(f"**Name:** {name}")
+st.write(f"**Field of Research:** {field}")
+st.write(f"**Institution:** {institution}")
 
 # Add a section for publications
 st.header("Publications")
